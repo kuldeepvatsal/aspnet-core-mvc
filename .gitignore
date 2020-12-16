@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/KuldeepBookStore/.vs/KuldeepBookStore
+/KuldeepBookStore/KuldeepBookStore/bin/Debug/net5.0
+/KuldeepBookStore/KuldeepBookStore/obj
+
